@@ -42,7 +42,7 @@ Use the following credentials to log in as an admin:
 ![Login Screen](screenshots/login.png)
 
 **Login Screen**  
-![Login Screen](screenshots/login-Successful)
+![Login Screen](screenshots/login-successful)
 
 **Homepage**  
 ![Inventory Management](screenshots/homepage.png)
