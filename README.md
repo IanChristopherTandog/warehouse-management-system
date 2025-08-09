@@ -36,6 +36,25 @@ Use the following credentials to log in as an admin:
 > ⚠️ These are default credentials for demonstration purposes only.
 
 ---
+## 📷 Screenshots
+
+**Login Screen**  
+![Login Screen](screenshots/login.png)
+
+**Login Screen**  
+![Login Screen](screenshots/login-Successful)
+
+**Homepage**  
+![Inventory Management](screenshots/homepage.png)
+
+**Inventory Management**  
+![Inventory Management](screenshots/inventory.png)
+
+**Categories Page**  
+![Orders Page](screenshots/categories.png)
+
+**Orders Page**  
+![Orders Page](screenshots/orders.png)
 
 ## ⚙️ Setup Instructions
 
@@ -43,3 +62,5 @@ Use the following credentials to log in as an admin:
 ```bash
 git clone https://github.com/your-username/warehouse-management-system.git
 cd warehouse-management-system
+
+
